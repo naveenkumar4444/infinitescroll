@@ -1,0 +1,15 @@
+.login_main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.form {
+    width: 50vh;
+}
+
+.header {
+    text-align: center;
+    margin: 25px 0;
+}
